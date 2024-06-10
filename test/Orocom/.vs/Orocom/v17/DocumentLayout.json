@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\views\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\views\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\views\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\views\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\viewmodels\\viewmodelproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\viewmodels\\viewmodelproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.dblib\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|solutionrelative:orocom.dblib\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\converters\\roletovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\converters\\roletovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.dblib\\class\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|solutionrelative:orocom.dblib\\class\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.dblib\\class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|solutionrelative:orocom.dblib\\class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.dblib\\class\\passwordresettoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|solutionrelative:orocom.dblib\\class\\passwordresettoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\viewmodels\\viewmodelmoduleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\viewmodels\\viewmodelmoduleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.dblib\\class\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|solutionrelative:orocom.dblib\\class\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\viewmodels\\viewmodeluserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\viewmodels\\viewmodeluserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\converters\\objecttovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\converters\\objecttovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\views\\moduleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\views\\moduleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\views\\userview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\views\\userview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\viewmodels\\viewmodelloginwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\viewmodels\\viewmodelloginwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\windows\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\windows\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\views\\moduleview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\views\\moduleview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\viewmodels\\viewmodelmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\viewmodels\\viewmodelmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\views\\userview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\views\\userview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\styles\\style.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\styles\\style.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.dblib\\class\\failedjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|solutionrelative:orocom.dblib\\class\\failedjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.dblib\\class\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|solutionrelative:orocom.dblib\\class\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.dblib\\class\\jobbatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|solutionrelative:orocom.dblib\\class\\jobbatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.dblib\\class\\orocomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F08ED93-32F5-496E-917F-F584DBBCCB30}|Orocom.DbLib\\Orocom.DbLib.csproj|solutionrelative:orocom.dblib\\class\\orocomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|c:\\users\\emman\\desktop\\projet c# deuxi\u00E8me ann\u00E9e\\louane\\orocom\\orocom.wpf\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1FEA4658-C01C-4AF2-B777-71E13370C865}|Orocom.Wpf\\Orocom.Wpf.csproj|solutionrelative:orocom.wpf\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\AssemblyInfo.cs",
+              "RelativeToolTip": "Orocom.Wpf\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:38:34.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Converters\\RoleToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\Converters\\RoleToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Converters\\RoleToVisibilityConverter.cs",
+              "RelativeToolTip": "Orocom.Wpf\\Converters\\RoleToVisibilityConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:36:42.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewModelProductView.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\ViewModels\\ViewModelProductView.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\ViewModels\\ViewModelProductView.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\ViewModels\\ViewModelProductView.cs",
+              "RelativeToolTip": "Orocom.Wpf\\ViewModels\\ViewModelProductView.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:31:47.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductView.xaml",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\ProductView.xaml",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\Views\\ProductView.xaml",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\ProductView.xaml",
+              "RelativeToolTip": "Orocom.Wpf\\Views\\ProductView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T10:32:13.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewModelModuleView.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\ViewModels\\ViewModelModuleView.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\ViewModels\\ViewModelModuleView.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\ViewModels\\ViewModelModuleView.cs",
+              "RelativeToolTip": "Orocom.Wpf\\ViewModels\\ViewModelModuleView.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:11:21.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\Product.cs",
+              "RelativeDocumentMoniker": "Orocom.DbLib\\Class\\Product.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\Product.cs",
+              "RelativeToolTip": "Orocom.DbLib\\Class\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:55:58.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\MainWindow.xaml",
+              "RelativeToolTip": "Orocom.Wpf\\MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-02T08:43:34.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Core\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\Core\\ObservableObject.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Core\\ObservableObject.cs",
+              "RelativeToolTip": "Orocom.Wpf\\Core\\ObservableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:32:52.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\Session.cs",
+              "RelativeDocumentMoniker": "Orocom.DbLib\\Class\\Session.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\Session.cs",
+              "RelativeToolTip": "Orocom.DbLib\\Class\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:41:56.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\User.cs",
+              "RelativeDocumentMoniker": "Orocom.DbLib\\Class\\User.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\User.cs",
+              "RelativeToolTip": "Orocom.DbLib\\Class\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:41:49.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\App.xaml",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\App.xaml",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\App.xaml",
+              "RelativeToolTip": "Orocom.Wpf\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T09:48:04.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Windows\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\Windows\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Windows\\LoginWindow.xaml",
+              "RelativeToolTip": "Orocom.Wpf\\Windows\\LoginWindow.xaml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T09:34:28.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\ProductView.xaml.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\Views\\ProductView.xaml.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\ProductView.xaml.cs",
+              "RelativeToolTip": "Orocom.Wpf\\Views\\ProductView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:41:40.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\Module.cs",
+              "RelativeDocumentMoniker": "Orocom.DbLib\\Class\\Module.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\Module.cs",
+              "RelativeToolTip": "Orocom.DbLib\\Class\\Module.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:55:49.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Orocom.Wpf\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:43:59.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "Orocom.Wpf\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:33:03.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PasswordResetToken.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\PasswordResetToken.cs",
+              "RelativeDocumentMoniker": "Orocom.DbLib\\Class\\PasswordResetToken.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\PasswordResetToken.cs",
+              "RelativeToolTip": "Orocom.DbLib\\Class\\PasswordResetToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:42:02.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewModelUserView.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\ViewModels\\ViewModelUserView.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\ViewModels\\ViewModelUserView.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\ViewModels\\ViewModelUserView.cs",
+              "RelativeToolTip": "Orocom.Wpf\\ViewModels\\ViewModelUserView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:11:29.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ObjectToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Converters\\ObjectToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\Converters\\ObjectToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Converters\\ObjectToVisibilityConverter.cs",
+              "RelativeToolTip": "Orocom.Wpf\\Converters\\ObjectToVisibilityConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:40:54.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ModuleView.xaml",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\ModuleView.xaml",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\Views\\ModuleView.xaml",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\ModuleView.xaml",
+              "RelativeToolTip": "Orocom.Wpf\\Views\\ModuleView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T09:56:54.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserView.xaml",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\UserView.xaml",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\Views\\UserView.xaml",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\UserView.xaml",
+              "RelativeToolTip": "Orocom.Wpf\\Views\\UserView.xaml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T09:55:03.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Windows\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\Windows\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Windows\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Orocom.Wpf\\Windows\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:46:15.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ViewModelLoginWindow.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\ViewModels\\ViewModelLoginWindow.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\ViewModels\\ViewModelLoginWindow.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\ViewModels\\ViewModelLoginWindow.cs",
+              "RelativeToolTip": "Orocom.Wpf\\ViewModels\\ViewModelLoginWindow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:11:34.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ModuleView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\ModuleView.xaml.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\Views\\ModuleView.xaml.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\ModuleView.xaml.cs",
+              "RelativeToolTip": "Orocom.Wpf\\Views\\ModuleView.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAlwCMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:08:34.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ViewModelMainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\ViewModels\\ViewModelMainWindow.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\ViewModels\\ViewModelMainWindow.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\ViewModels\\ViewModelMainWindow.cs",
+              "RelativeToolTip": "Orocom.Wpf\\ViewModels\\ViewModelMainWindow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:16:39.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\App.xaml.cs",
+              "RelativeToolTip": "Orocom.Wpf\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:37:43.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\UserView.xaml.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\Views\\UserView.xaml.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\UserView.xaml.cs",
+              "RelativeToolTip": "Orocom.Wpf\\Views\\UserView.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:55:54.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\HomeView.xaml.cs",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\Views\\HomeView.xaml.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\HomeView.xaml.cs",
+              "RelativeToolTip": "Orocom.Wpf\\Views\\HomeView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:50:27.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\HomeView.xaml",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\Views\\HomeView.xaml",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Views\\HomeView.xaml",
+              "RelativeToolTip": "Orocom.Wpf\\Views\\HomeView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T09:34:00.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Style.xaml",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Styles\\Style.xaml",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\Styles\\Style.xaml",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\Styles\\Style.xaml",
+              "RelativeToolTip": "Orocom.Wpf\\Styles\\Style.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T09:47:30.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FailedJob.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\FailedJob.cs",
+              "RelativeDocumentMoniker": "Orocom.DbLib\\Class\\FailedJob.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\FailedJob.cs",
+              "RelativeToolTip": "Orocom.DbLib\\Class\\FailedJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:42:15.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\Job.cs",
+              "RelativeDocumentMoniker": "Orocom.DbLib\\Class\\Job.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\Job.cs",
+              "RelativeToolTip": "Orocom.DbLib\\Class\\Job.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:42:12.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JobBatch.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\JobBatch.cs",
+              "RelativeDocumentMoniker": "Orocom.DbLib\\Class\\JobBatch.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\JobBatch.cs",
+              "RelativeToolTip": "Orocom.DbLib\\Class\\JobBatch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:42:07.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrocomContext.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\OrocomContext.cs",
+              "RelativeDocumentMoniker": "Orocom.DbLib\\Class\\OrocomContext.cs",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.DbLib\\Class\\OrocomContext.cs",
+              "RelativeToolTip": "Orocom.DbLib\\Class\\OrocomContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:16:05.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\README.md",
+              "RelativeDocumentMoniker": "Orocom.Wpf\\README.md",
+              "ToolTip": "C:\\Users\\emman\\Desktop\\Projet c# deuxi\u00E8me ann\u00E9e\\Louane\\Orocom\\Orocom.Wpf\\README.md",
+              "RelativeToolTip": "Orocom.Wpf\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-03T09:14:17.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

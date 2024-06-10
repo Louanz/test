@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "Orocom.DbLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Orocom.DbLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Orocom.DbLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Orocom.DbLib/1.0.0": {
+      "type": "project",
+      "path": "../Orocom.DbLib/Orocom.DbLib.csproj",
+      "msbuildProject": "../Orocom.DbLib/Orocom.DbLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "Orocom.DbLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\louan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\louan\\test\\LD-0_1\\Orocom\\Orocom.Wpf\\Orocom.Wpf.csproj",
+      "projectName": "Orocom.Wpf",
+      "projectPath": "C:\\Users\\louan\\test\\LD-0_1\\Orocom\\Orocom.Wpf\\Orocom.Wpf.csproj",
+      "packagesPath": "C:\\Users\\louan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\louan\\test\\LD-0_1\\Orocom\\Orocom.Wpf\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\louan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\louan\\test\\LD-0_1\\Orocom\\Orocom.DbLib\\Orocom.DbLib.csproj": {
+              "projectPath": "C:\\Users\\louan\\test\\LD-0_1\\Orocom\\Orocom.DbLib\\Orocom.DbLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

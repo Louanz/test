@@ -1,0 +1,17 @@
+﻿<Application x:Class="Orocom.Wpf.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Orocom.Wpf"
+             xmlns:converters="clr-namespace:Orocom.Wpf.Converters"
+             StartupUri="MainWindow.xaml">
+	<Application.Resources>
+		<ResourceDictionary>
+			<ResourceDictionary.MergedDictionaries>
+				<ResourceDictionary Source="./Styles/Style.xaml"/>
+
+			</ResourceDictionary.MergedDictionaries>
+			<converters:RoleToVisibilityConverter x:Key="RoleToVisibilityConverter"/>
+			<converters:ObjectToVisibilityConverter x:Key="ObjectToVisibilityConverter"/>
+		</ResourceDictionary>
+	</Application.Resources>
+</Application>

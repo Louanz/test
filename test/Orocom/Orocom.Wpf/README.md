@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "server=localhost;database=Orocom;user=root;password=;" MySql.EntityFrameworkCore -OutputDir Class

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orocom.Wpf", "Orocom.Wpf\Orocom.Wpf.csproj", "{1FEA4658-C01C-4AF2-B777-71E13370C865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orocom.DbLib", "Orocom.DbLib\Orocom.DbLib.csproj", "{8F08ED93-32F5-496E-917F-F584DBBCCB30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FEA4658-C01C-4AF2-B777-71E13370C865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEA4658-C01C-4AF2-B777-71E13370C865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEA4658-C01C-4AF2-B777-71E13370C865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEA4658-C01C-4AF2-B777-71E13370C865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F08ED93-32F5-496E-917F-F584DBBCCB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F08ED93-32F5-496E-917F-F584DBBCCB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F08ED93-32F5-496E-917F-F584DBBCCB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F08ED93-32F5-496E-917F-F584DBBCCB30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9A487DB-6DB9-4FCF-923A-33861318EDD6}
+	EndGlobalSection
+EndGlobal
